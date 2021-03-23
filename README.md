@@ -8,19 +8,33 @@ This code is compatible with Mathematica 12.1 and beyond and tested over Windows
 
 -> Input data are in Microsoft Excel "*.xlsx" formats for easy use
 The Excel data formats is as follows:
+
 Column A:> day
+
 Column B:> month
+
 Column C:> year
+
 Column D:> mobility reduction estimate (normalized to scale 0-1)
+
 Column E:> working day label (0: working day & 1: vacation/day off)
+
 Column F:> daily maximum temprature
+
 Column G:> daily average humidity
+
 Column H:> total number of EAD
+
 Column I:> number of EAD (children)
+
 Column J:> number of EAD (adult)
+
 Column K:> number of EAD (eldery)
+
 Column L:> number of EAD (outdoor)
+
 Column M:> number of EAD (indoor)
+
 Note: I+J+K=L+M=H
 
 Here, a sample of the data used in this study is shared (complete data can not be shared for public use).
