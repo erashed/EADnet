@@ -46,6 +46,7 @@ This notebook is the main code to conduct network training and validation.
 This notebook define network architecture
 
 
-References
+Reference
+
 E. A. Rashed, S. Kodera, H. Shirakami, R. Kawaguchi, K. Watanabe, A. Hirata, "Knowledge discovery from emergency ambulance dispatch during COVID-19: A case study of Nagoya
 City, Japan," Journal of Biomedical Informatics, 2021 (doi: https://doi.org/10.1016/j.jbi.2021.103743)
