@@ -6,7 +6,8 @@ This code aims at forecasting of daily emergency ambulance dispatch (EAD) using 
 
 This code is compatible with Mathematica 12.1 and beyond and tested over Windows 10, Ubuntu 16.04, and OSX 10.11.6. More details are in our paper mentioned below. If you are using this code, please refer to our paper.
 
--> Input data are in Microsoft Excel "*.xlsx" formats for easy use
+-> Input data are in Microsoft Excel "*.xlsx" formats for easy use.
+
 The Excel data formats is as follows (please create your own data file using the following structure):
 
 Column A:> day
